@@ -1,4 +1,4 @@
-[![MasterHead](https://www.spec-india.com/wp-content/uploads/2022/11/Banner-Swift-App-Development.png)
+![MasterHead](https://www.spec-india.com/wp-content/uploads/2022/11/Banner-Swift-App-Development.png)
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate iOS developer</h3>
 
